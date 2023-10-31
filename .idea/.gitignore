@@ -8,3 +8,4 @@ modules.xml
 vcs.xml
 jsLibraryMappings.xml
 codeStyleConfig.xml
+/inspectionProfiles/Project_Default.xml
